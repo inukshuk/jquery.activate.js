@@ -7,10 +7,10 @@ require 'uglifier'
 
 LICENSE = <<-END
 /*!
-* jQuery Smoothies
+* jQuery Activate
 * https://github.com/inukshuk/jquery.activate.js
 *
-* Copyright 2011, Sylvester Keil
+* Copyright 2011, Sylvester Keil, Johannes Krtek.
 * Distributed under the MIT license.
 * https://github.com/inukshuk/jquery.activate.js/blob/master/LICENSE
 *
