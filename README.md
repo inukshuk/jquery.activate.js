@@ -22,7 +22,7 @@ be applied to each element when it becomes active or inactive (this will
 point to the extended element).
 
 For more examples, take a look at the specs at
-[spec/javascripts/activate_spec.js](https://github.com/inukshuk/jquery.activate.js/blob/spec/javascripts/activate_spec.js).
+[spec/javascripts/activate_spec.js](https://github.com/inukshuk/jquery.activate.js/blob/master/spec/javascripts/activate_spec.js).
 
 License
 -------
