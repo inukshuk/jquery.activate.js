@@ -9,13 +9,13 @@ CSS class.
     // => if you click one of the li's it will be activated; behaves like check boxes on subsequent clicks
 
     $('#navigation > li').activate({ mode: 'toggle' });
-		// => same as above
-		
+    // => same as above
+    
     $('#navigation > li').activate({ mode: 'once' });
-		// => if you click one of the li's it will be activated; subsequent clicks will be ignored
-		
+    // => if you click one of the li's it will be activated; subsequent clicks will be ignored
+    
     $('#navigation > li').activate({ mode: 'radio' });
-		// => if you click one of the li's it will be activated; behaves like radio buttons on subsequent clicks
+    // => if you click one of the li's it will be activated; behaves like radio buttons on subsequent clicks
 
 Additionally, you can define callbacks `activate` and `deactivate` that will
 be applied to each element when it becomes active or inactive (this will
